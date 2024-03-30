@@ -7,7 +7,7 @@ date: 2024-02-25 11:14:06
 
 ### TEDx Talks 沒有方向？先從當個積極的迷惘人開始！
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/4FJEbzPhqq8?si=QeideJ1GCWKXxBuG&amp;start=12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="max-width: 100% !important;" width="800" height="400" src="https://www.youtube.com/embed/4FJEbzPhqq8?si=QeideJ1GCWKXxBuG&amp;start=12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 我熱愛分享，也會定期整理自己想法脈絡，整理成方法論。我把過去幾十年創業經驗，整理成名為「積極的迷惘人」的演講題目，除了曾在台大、交大、政大、世新等大學與學子分享，更曾登上 TEDx Talk 成為分享者。
 

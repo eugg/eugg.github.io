@@ -6,7 +6,7 @@ tags:
   - 隨筆
 ---
 
-![cover](https://storage.googleapis.com/p_64112b944de69aa3308b4cea/fd7323d4-0f78-42e8-a3c9-16803c86450c/bluelock-pwc_01.jpg)
+<img src="https://storage.googleapis.com/p_64112b944de69aa3308b4cea/fd7323d4-0f78-42e8-a3c9-16803c86450c/bluelock-pwc_01.jpg" alt="drawing" style="max-width:100%;"/>
 
 《BLUE LOCK》藍色監獄是這幾年我覺得最好看的動畫之一，本來以為只是一個熱血足球動漫，沒有想到其實是一部很有系統的，用一個框架在教導「如何競爭」這一件事。
 
